@@ -73,6 +73,8 @@ Below are example diagram categories commonly used to understand the i.MX RT1170
 
 For engineers who prefer a **visual system-level reference**, a visual system atlas of the i.MX RT1170 focused on architecture rather than registers is available here:
 
+![i.MX RT1170 system architecture diagram](imxrt1170-system-architecture.jpeg)
+
 🔗 https://marvaniacademy.gumroad.com/l/rt1170_atlas
 
 This reference helps connect memory, bus behavior, power domains, boot flow, and real-time behavior into one coherent view.
