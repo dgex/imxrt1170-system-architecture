@@ -1,5 +1,7 @@
 # i.MX RT1170 System Architecture Explained
 
+Related article: https://medium.com/@hajrighassen/i-mx-rt1170-system-architecture-explained-memory-power-dual-core-389463b9974c
+
 This repository provides a **system-level explanation of the i.MX RT1170** crossover MCU.
 
 The focus is on understanding the **i.MX RT1170 system architecture** as a whole: memory hierarchy, dual-core philosophy, power and reset domains, boot flow, and real-time behavior.
